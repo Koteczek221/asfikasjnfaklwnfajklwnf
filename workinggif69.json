@@ -26,6 +26,12 @@
         "TEXT_LINK": [
             "#60f74f"
         ],
+        "CARD_PRIMARY_BG": [
+        "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+        "#000000"
+        ],
         "INTERACTIVE_NORMAL": [
             "#e0091b"
         ],
