@@ -15,16 +15,16 @@
             "#e0091b"
         ],
         "TEXT_NORMAL": [
-            "#dbd7f5"
+            "#60f74f"
         ],
         "TEXT_MUTED": [
-            "#a39fbf"
+            "#60f74f"
         ],
         "TEXT_DANGER": [
-            "#6a58f5"
+            "#60f74f"
         ],
         "TEXT_LINK": [
-            "#a296fa"
+            "#60f74f"
         ],
         "INTERACTIVE_NORMAL": [
             "#e0091b"
@@ -39,43 +39,43 @@
             "#e0091b"
         ],
         "BACKGROUND_PRIMARY": [
-            "#e0091b"
+            "#60f74f"
         ],
         "BACKGROUND_SECONDARY": [
-            "#e0091b"
+            "#60f74f"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#291e5c"
+            "#60f74f"
         ],
         "BACKGROUND_TERTIARY": [
-            "#161033"
+            "#60f74f"
         ],
         "BACKGROUND_ACCENT": [
-            "#161033"
+            "#60f74f"
         ],
         "BACKGROUND_FLOATING": [
-            "#e0091b"
+            "#60f74f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#e0091b"
+            "#60f74f"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#e0091b"
+            "#60f74f"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#291e5c"
+            "#60f74f"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#291e5c"
+            "#60f74f"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#171133"
+            "#60f74f"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4e418c"
+            "#60f74f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#291e5c"
+            "#60f74f"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#e0091b"
@@ -90,13 +90,13 @@
             "#e0091b"
         ],
         "KEYBOARD": [
-            "#161033"
+            "#e0091b"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#e0091b"
         ],
         "CHANNEL_ICON": [
-            "#a39fbf"
+            "#e0091b"
         ],
         "CHANNELS_DEFAULT": [
             "#e0091b"
