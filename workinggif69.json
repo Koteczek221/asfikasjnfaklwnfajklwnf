@@ -27,16 +27,16 @@
             "#a296fa"
         ],
         "INTERACTIVE_NORMAL": [
-            "#a39fbf"
+            "#e0091b"
         ],
         "INTERACTIVE_HOVER": [
-            "#DCDDDE"
+            "#e0091b"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dbd7f5"
+            "#e0091b"
         ],
         "INTERACTIVE_MUTED": [
-            "#6d698a"
+            "#e0091b"
         ],
         "BACKGROUND_PRIMARY": [
             "#e0091b"
@@ -78,16 +78,16 @@
             "#291e5c"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#291e5c"
+            "#e0091b"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "e0091b"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#161033"
+            "#e0091b"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#161033"
+            "#e0091b"
         ],
         "KEYBOARD": [
             "#161033"
