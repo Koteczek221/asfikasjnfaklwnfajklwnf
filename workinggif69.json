@@ -26,6 +26,12 @@
         "TEXT_LINK": [
             "#a296fa"
         ],
+        "CARD_PRIMARY_BG": [
+        "#000000"
+        ],
+        "CARD_SECONDARY_BG": [
+        "#000000"
+        ],
         "INTERACTIVE_NORMAL": [
             "#a39fbf"
         ],
@@ -119,6 +125,8 @@
         "PRIMARY_700": "#291e5c",
         "PRIMARY_800": "#161033",
         "PRIMARY_900": "#291e5c",
+        "PLUM_20": "#0000FF",
+        "PLUM_22": "#0000FF",
         "YELLOW_300": "#6a58f5",
         "BRAND_260": "#6a58f5",
         "BRAND_360": "#9488f2",
