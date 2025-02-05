@@ -119,11 +119,11 @@
         "PRIMARY_360": "#a39fbf",
         "PRIMARY_400": "#6a58f5",
         "PRIMARY_500": "#291e5c",
-        "PRIMARY_600": "#161033",
-        "PRIMARY_630": "#291e5c",
-        "PRIMARY_660": "#291e5c",
-        "PRIMARY_700": "#291e5c",
-        "PRIMARY_800": "#161033",
+        //"PRIMARY_600": "#161033",
+        //"PRIMARY_630": "#291e5c",
+        //"PRIMARY_660": "#291e5c",
+        //"PRIMARY_700": "#291e5c",
+        //"PRIMARY_800": "#161033",
         "PRIMARY_900": "#291e5c",
         "PLUM_16": "#3e317a",
         "PLUM_19": "#3e317a",
@@ -140,7 +140,13 @@
         "RED_560": "#6a58f5",
         "GREEN_345": "#6a58f5",
         "BLUE_345": "#6a58f5",
-        "WHITE_500": "#dbd7f5"
+        "WHITE_500": "#dbd7f5",
+        "PRIMARY_460": "#0000FF",
+        "PRIMARY_600": "#0000FF",
+        "PRIMARY_630": "#0000FF",
+        "PRIMARY_660": "#0000FF",
+        "PRIMARY_700": "#0000FF",
+        "PRIMARY_800": "#0000FF"
        
     },
   "background": {
