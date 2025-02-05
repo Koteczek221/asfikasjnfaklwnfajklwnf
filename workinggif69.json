@@ -141,12 +141,12 @@
         "GREEN_345": "#6a58f5",
         "BLUE_345": "#6a58f5",
         "WHITE_500": "#dbd7f5",
-        "PRIMARY_460": "#0000FF",
-        "PRIMARY_600": "#0000FF",
-        "PRIMARY_630": "#0000FF",
-        "PRIMARY_660": "#0000FF",
-        "PRIMARY_700": "#0000FF",
-        "PRIMARY_800": "#0000FF"
+        "PRIMARY_460": "#2a1f59",
+        "PRIMARY_600": "#2a1f59",
+        "PRIMARY_630": "#2a1f59",
+        "PRIMARY_660": "#2a1f59",
+        "PRIMARY_700": "#2a1f59",
+        "PRIMARY_800": "#2a1f59"
        
     },
   "background": {
